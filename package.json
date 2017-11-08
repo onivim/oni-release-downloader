@@ -1,6 +1,6 @@
 {
   "name": "oni-release-downloader",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Helper module to download release binaries",
   "devDependencies": {
     "extract-zip": "^1.6.6",
